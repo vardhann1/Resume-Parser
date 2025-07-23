@@ -21,10 +21,6 @@ python resume_parser/manage.py runserver
 
 - Visit `127.0.0.1` to view the GUI
 
-# Working:
-
-![Working](results/resume_parser_result.png)
-
 # Running app in Docker
 
 - Install docker-compose
